@@ -62,7 +62,8 @@
     "stream-consume": "^0.1.0",
     "tunnel": "0.0.4",
     "underscore": "^1.8.3",
-    "x-frame-options": "^1.0.0"
+    "x-frame-options": "^1.0.0",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "browser-sync": "^2.3.1",
@@ -107,6 +108,9 @@
     "lint": "gulp lint",
     "mocha": "gulp mocha",
     "karma": "gulp karma",
-    "postinstall": "bower install --allow-root"
-  }
+    "postinstall": "bower install --allow-root",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
