@@ -45,7 +45,7 @@
     "github": "^2.4.0",
     "glob": "^7.0.5",
     "less-middleware": "^2.0.1",
-    "merge": "^1.2.0",
+    "merge": "^2.1.0",
     "minimatch": "^3.0.2",
     "mongodb-migrations": "^0.6.1",
     "mongodb-uri": "^0.9.7",
