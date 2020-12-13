@@ -49,7 +49,7 @@
     "minimatch": "^3.0.2",
     "mongodb-migrations": "^0.6.1",
     "mongodb-uri": "^0.9.7",
-    "mongoose": "^4.3.1",
+    "mongoose": "^5.11.7",
     "nodemailer": "^2.5.0",
     "nodemailer-sendmail-transport": "^1.0.0",
     "nodemailer-smtp-transport": "^2.6.0",
