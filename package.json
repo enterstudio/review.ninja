@@ -29,7 +29,7 @@
     "Xiong, Jie <jie.xiong01@sap.com>"
   ],
   "dependencies": {
-    "agent-base": "^2.0.1",
+    "agent-base": "^4.0.0",
     "array-sugar": "^1.2.1",
     "async": "^2.0.1",
     "body-parser": "^1.12.2",
